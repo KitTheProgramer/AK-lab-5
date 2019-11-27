@@ -1,9 +1,9 @@
-Use --verbose to set the verbose flag.
+Use <code>--verbose</code> to set the verbose flag.
 
-Use -o or --option1 to enable option -o.
+Use <code>-a</code> or <code>--option1</code> to enable <strong>option -a</strong>.
 
-Use -O or --option2 to enable option -O.
+Use <code>-A</code> or <code>--option2</code> to enable <strong>option -A</strong>.
 
-Use -l or --list to enable l option.
+Use <code>-l</code> or -<code>-list</code> to enable <strong>l option</strong>.
 
-Use -f or --file to enable f option.
+Use <code>-f</code> or <code>--file</code> to enable <strong>f option</strong>.
